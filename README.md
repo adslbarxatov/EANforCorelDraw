@@ -10,6 +10,14 @@ in CorelDraw graphic editor using simple rectangles
 
 #
 
+We've formalized our [Applications development policy (ADP)](https://vk.com/@rdaaow_fupl-adp).
+We're strongly recommend reading it before using our products.
+
+Мы формализовали нашу [Политику разработки приложений (ADP)](https://vk.com/@rdaaow_fupl-adp).
+Настоятельно рекомендуем ознакомиться с ней перед использованием наших продуктов.
+
+#
+
 Needs CorelDraw installed (tested on v 13)
 Interface languages: ru_ru
 
