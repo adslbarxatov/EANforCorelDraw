@@ -1,5 +1,7 @@
 # EAN barcode generator for CorelDraw v 1.2
+
 A macro for EAN barcodes' generation in CorelDraw/ Утилита генерации штрихкодов EAN в CorelDraw
+
 #
 
 This tool allows you to generate a EAN (EAN8 only for now) barcode directly
